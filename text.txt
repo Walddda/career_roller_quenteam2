@@ -1,0 +1,114 @@
+{"CourseId":174961,
+"Titel":"Ausbildung zum Staplerfahrer",
+"Province":"Burgenland",
+"Description":"
+
+FLEXIBEL – JEDERZEIT – ÜBERALL – AUCH VOR ORT IM UNTERNEHMEN
+\r\nJetzt am WIFI den Staplerkurs absolvieren und erfolgreich die Prüfung ablegen.
+\r\n\t\t\t\t\t\t
+\r\n\t\t\t\t\t\t
+
+Im Rahmen der theoretischen und praktischen Ausbildung eignen Sie sich das nötige Wissen an, um die Staplerprüfung erfolgreich zu meistern. Gemeinsam mit unseren Trainern - Profis aus der Praxis - bereiten Sie sich bestmöglich auf die Prüfung vor. Wie qualitativ hochwertig diese Ausbildung ist, spiegelt sich in der hohen Erfolgsquote wider.
+\r\nDas Praxis-Training ist das Herzstück der Ausbildung und findet unter realen Arbeitsbedingungen statt.\r\n
+Folgende Inhalte werden behandelt
+\r\n\r\n
+
+    \r\n\t
+    Grundbegriffe der Mechanik und Elektronik
+    \r\n\t
+    Aufbau und Arbeitsweise
+    \r\n\t
+    Mechanische und elektrische Ausrüstung
+    \r\n\t
+    Sicherheitseinrichtungen
+    \r\n\t
+    Betrieb und Wartung
+    \r\n\t
+    Sicherheitsvorschriften und Richtlinien für den Betrieb von Staplern
+    \r\n\t
+    Praktisches Fahren und Arbeiten mit dem Stapler 
+    \r\n
+
+\r\n \r\n\r\n
+Hinweise
+\r\nIm Anschluss an die Veranstaltung wird eine Prüfung abgelegt. Nach bestandener Prüfung erhalten Sie das behördlich vorgeschriebene Zeugnis im Scheckkartenformat. Im Teilnehmerbeitrag ist der einmalige Prüfungsantritt enthalten.
+\r\n 
+\r\nBeachten Sie auch die Möglichkeit, diverse Förderungen in Anspruch zu nehmen - wir beraten Sie gerne!
+\r\n 
+\r\nWir bieten auch firmeninterne Ausbildungen direkt in Ihrem Unternehmen an!\r\n\r\nFalls diese Aus- bzw. Weiterbildung in Zusammenhang mit dem Lehrberuf des Lehrlings steht, ergibt sich eine Fördermöglichkeit über die Förderschiene Lehre fördern.
+\r\n 
+\r\nDabei sind zwei Ausgangssituationen zu beachten:
+\r\n \r\n
+
+    \r\n\t
+    Befindet sich der Lehrling in Kurzarbeit, ist eine Förderung in der Höhe von bis zu 60 % der Kurskosten möglich.
+    \r\n\t
+    Wird die Aus- bzw. Weiterbildung unter regulären Bedingungen (keine Kurzarbeit) besucht, ist eine Förderung in der Höhe von 75 % der Kurskosten möglich.
+    \r\n
+
+\r\n 
+\r\nDie erfolgreiche Absolvierung dieser Veranstaltung ist eine Voraussetzung für die Einreichung der Förderung.
+
+\r\n\t\t\t\t\t\t
+\r\n\t\t\t\t\t\t
+\r\n\t\t\t\t\t\t
+
+Personen, die das 18. Lebensjahr vollendet haben und die Prüfung zum Führen von Staplern ablegen möchten.
+\r\nKenntnis der deutschen Sprache in Wort und Schrift wird vorausgesetzt.
+\r\n\t\t\t\t\t\t
+Hier können Sie den Kostenvoranschlag für Förderstellen anfordernDie Fördermöglichkeiten auf einen Blick
+
+Letzte Änderung: 17.12.2020
+",
+"Url":"https://www.bgld.wifi.at/kurs/3500x-ausbildung-zum-staplerfahrer",
+"CourseDomain":"",
+"Place":"Eisenstadt","CourseDates":[{"CourseDateId":87603,"StartDate":"2021-04-06T00:00:00","CourseType":"T","EndDate":"2021-04-08T00:00:00","StartTime":"08:00:00","EndTime":"16:00:00","Zip":"7000","Street":"Robert-Graf-Platz 1","Organiser":"WIFI Burgenland","Duration":24,"Url":"https://www.bgld.wifi.at/kurs/3500x-ausbildung-zum-staplerfahrer"},{"CourseDateId":86571,"StartDate":"2021-03-15T00:00:00","CourseType":"T","EndDate":"2021-03-17T00:00:00","StartTime":"08:00:00","EndTime":"16:00:00","Zip":"7000","Street":"Robert-Graf-Platz 1","Organiser":"WIFI Burgenland","Duration":24,"Url":"https://www.bgld.wifi.at/kurs/3500x-ausbildung-zum-staplerfahrer"},{"CourseDateId":86572,"StartDate":"2021-02-15T00:00:00","CourseType":"T","EndDate":"2021-02-17T00:00:00","StartTime":"08:00:00","EndTime":"16:00:00","Zip":"7000","Street":"Robert-Graf-Platz 1","Organiser":"WIFI Burgenland","Duration":24,"Url":"https://www.bgld.wifi.at/kurs/3500x-ausbildung-zum-staplerfahrer"},{"CourseDateId":98980,"StartDate":"2021-05-03T00:00:00","CourseType":"T","EndDate":"2021-05-05T00:00:00","StartTime":"08:00:00","EndTime":"16:00:00","Zip":"7000","Street":"Robert-Graf-Platz 1","Organiser":"WIFI Burgenland","Duration":24,"Url":"https://www.bgld.wifi.at/kurs/3500x-ausbildung-zum-staplerfahrer"},{"CourseDateId":108636,"StartDate":"2021-06-28T00:00:00","CourseType":"T","EndDate":"2021-06-30T00:00:00","StartTime":"08:00:00","EndTime":"16:00:00","Zip":"7000","Street":"Robert-Graf-Platz 1","Organiser":"WIFI Burgenland","Duration":24,"Url":"https://www.bgld.wifi.at/kurs/3500x-ausbildung-zum-staplerfahrer"}]}
+
+
+
+
+
+
+
+
+
+
+
+
+FLEXIBEL – JEDERZEIT – ÜBERALL – AUCH VOR ORT IM UNTERNEHMEN
+Jetzt am WIFI den Staplerkurs absolvieren und erfolgreich die Prüfung ablegen.
+
+Im Rahmen der theoretischen und praktischen Ausbildung eignen Sie sich das nötige Wissen an, um die Staplerprüfung erfolgreich zu meistern. Gemeinsam mit unseren Trainern - Profis aus der Praxis - bereiten Sie sich bestmöglich auf die Prüfung vor. Wie qualitativ hochwertig diese Ausbildung ist, spiegelt sich in der hohen Erfolgsquote wider.
+Das Praxis-Training ist das Herzstück der Ausbildung und findet unter realen Arbeitsbedingungen statt.
+Folgende Inhalte werden behandelt
+
+    Grundbegriffe der Mechanik und Elektronik
+    Aufbau und Arbeitsweise
+    Mechanische und elektrische Ausrüstung
+    Sicherheitseinrichtungen
+    Betrieb und Wartung
+    Sicherheitsvorschriften und Richtlinien für den Betrieb von Staplern
+    Praktisches Fahren und Arbeiten mit dem Stapler 
+
+ 
+Hinweise
+Im Anschluss an die Veranstaltung wird eine Prüfung abgelegt. Nach bestandener Prüfung erhalten Sie das behördlich vorgeschriebene Zeugnis im Scheckkartenformat. Im Teilnehmerbeitrag ist der einmalige Prüfungsantritt enthalten.
+ 
+Beachten Sie auch die Möglichkeit, diverse Förderungen in Anspruch zu nehmen - wir beraten Sie gerne!
+ 
+Wir bieten auch firmeninterne Ausbildungen direkt in Ihrem Unternehmen an! Falls diese Aus- bzw. Weiterbildung in Zusammenhang mit dem Lehrberuf des Lehrlings steht, ergibt sich eine Fördermöglichkeit über die Förderschiene Lehre fördern.
+ 
+Dabei sind zwei Ausgangssituationen zu beachten:
+ 
+
+    Befindet sich der Lehrling in Kurzarbeit, ist eine Förderung in der Höhe von bis zu 60 % der Kurskosten möglich.
+    Wird die Aus- bzw. Weiterbildung unter regulären Bedingungen (keine Kurzarbeit) besucht, ist eine Förderung in der Höhe von 75 % der Kurskosten möglich.
+
+ 
+Die erfolgreiche Absolvierung dieser Veranstaltung ist eine Voraussetzung für die Einreichung der Förderung.
+
+Personen, die das 18. Lebensjahr vollendet haben und die Prüfung zum Führen von Staplern ablegen möchten.
+Kenntnis der deutschen Sprache in Wort und Schrift wird vorausgesetzt.
+Hier können Sie den Kostenvoranschlag für Förderstellen anfordernDie Fördermöglichkeiten auf einen Blick
+
+Letzte Änderung: 17.12.2020
