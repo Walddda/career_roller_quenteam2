@@ -14,12 +14,13 @@
             <p class="col-2"></p>
             <div class="frame" class="col-8">
                 <h1>Career Roller</h1>
-                <button id="buttonSelect">Get a random Job</button>
+                <button type="button" id="buttonSelect" class="btn btn-success">Get a random Job</button>
                 <div id="data">
-                    <a href="${jobs[0].Url}" target="_blank" id="name"><h2 id="title">Ausbildung zum Staplerfahrer</h2><h5 id="id">174961</h5></a>
-                    
-                    <div><span class="iconify" data-icon="simple-line-icons:location-pin" data-inline="false"></span> Eisenstadt, Burgenland</div>
-                    <button id="showDesc">What to do?</button>
+                    <div class="top">
+                        <a href="${jobs[0].Url}" target="_blank" id="name"><h2 id="title">Ausbildung zum Staplerfahrer</h2><h5 id="id">174961</h5></a> 
+                        <div id="ort"><span class="iconify" data-icon="simple-line-icons:location-pin" data-inline="false"></span> Eisenstadt, Burgenland</div>
+                    </div>
+                    <button type="button" id="showDesc" class="btn btn-success">What to do</button>
                     <div id="desc">FLEXIBEL – JEDERZEIT – ÜBERALL – AUCH VOR ORT IM UNTERNEHMEN
                         Jetzt am WIFI den Staplerkurs absolvieren und erfolgreich die Prüfung ablegen.
                         

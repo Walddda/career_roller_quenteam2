@@ -3,14 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link href="C:\xampp\htdocs\quiz\quenteam\career_roller_quenteam2\node_modules\bootstrap\dist\css\bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <link href="css.css" type="text/css" rel="stylesheet">
+    <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+    <title>Career Roller</title>
 </head>
 <body>
     <script src="myScript.js" defer></script>
-<h1>Career Roller</h1>
-<button id="buttonSelect">Select a random Job</button>
-<div id="data">
-
-</div>
+    <div class="container">
+        <div class="row">
+            <p class="col-2"></p>
+            <div class="frame" class="col-8">
+                <h1>Career Roller</h1>
+                <button type="button" id="buttonSelect" class="btn btn-success">Entdecke einen neuen Job</button>
+                <div id="data">
+                    <div class="top container">
+                        <div id="name"><h2 id="title">Finde jetzt deinen Traumjob!</h2><h5 id="id"></h5></div>
+                        <div id="ort">Nur einen Klick entfernt!</div>
+                        <div class="row">
+                            <p class="col-11"></p>
+                            <p id="link" class="col-1"><a href="#" target="_blank" id="urlA"><span class="iconify" data-icon="akar-icons:link-chain" data-inline="false"></span></a></p>    
+                        </div>
+                    </div>
+                    <button type="button" id="showDesc" class="btn btn-success">Was ist zu tun?</button>
+                    <div id="desc">
+                    </div>
+                </div>
+            </div>
+            <p class="col-2"></p>
+        </div>
+    </div>
+    <p id="cc">Quenteam2.0</p>
 </body>
 </html>
+    
